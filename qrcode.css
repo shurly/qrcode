@@ -1,0 +1,23 @@
+*{
+    font-family: 'sans serif';
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    color: #fff;
+    background-image: linear-gradient(black, yellow);
+}
+
+input{
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.output{
+    border: 1px solid #222;
+    padding: 30px 20px;
+    background-color: #0006;
+}
